@@ -56,7 +56,7 @@ pkg update && upgrade && pkg install git && pkg install vim && pkg install curl 
 ```
 3) Clone this repo.
 ```console
-git clone https://github.com/Gtajisan/termux-miuiunlockr.git && cd termux-miuiunlockr && ls
+git clone https://github.com/Versionx10/Mi-Unlock.git && cd Mi-Unlock && ls
 ```
 3) Run ```setup.sh``` to install required packages.
 ```console
